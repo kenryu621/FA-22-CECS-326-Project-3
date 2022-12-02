@@ -1,6 +1,6 @@
 # Project 3 - All About Deadlock
 
-Organization: California State University
+Organization: California State University Long Beach
 
 Semester: Fall 2022
 
